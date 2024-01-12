@@ -12,7 +12,7 @@ Prepare a Jenkins instance with one job which will
 - Measure coverage of the C code, convert results to Cubertura format, and present the report in the Jenkins job (see hints for details)
 
 Keep it simple - don't overcomplicate your solution, use Jenkins as an admin, do not care about security configuration/etc.
-Keep in mind that the environment must be
+Keep in mind that the environment must be persistent - do not delete the containers/images/volumes from your PC, we will have a call where we will review your solution!
 
 ## Desired outcome
 - A git repository with your solution. It should contain:
